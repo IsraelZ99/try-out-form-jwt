@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  AUTH_SERVICE: 'http://155.138.216.49:8080/ollin-server/api'
 };
 
 /*
